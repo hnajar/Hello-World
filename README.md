@@ -1,2 +1,2 @@
-# Hello-World mine
+# Hello-World
 My First Repository
